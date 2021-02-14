@@ -5,10 +5,6 @@
 [![Twitter: AdilsonJager](https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAdilsonJager)](https://twitter.com/AdilsonJager)
 [![Linkedin: AdilsonJager](https://img.shields.io/badge/-adilsonJager-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilsonj%C3%A4ger)](https://www.linkedin.com/in/adilsonj%C3%A4ger//)
 
-## Projects main
-[FrontEnd with Origamid](https://github.com/AdilsonMJ/CURSO-FRONTEND-ORIGAMID)  
-[Code-Challenges](https://github.com/AdilsonMJ/Code-Challenges)  
-
 ### A little more about me...
 
 ```javascript
