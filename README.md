@@ -13,8 +13,3 @@ const Adilson = {
    
 };
 ````
-
-
-## Projects main
-[FrontEnd with Origamid](https://github.com/AdilsonMJ/CURSO-FRONTEND-ORIGAMID)  
-[Code-Challenges](https://github.com/AdilsonMJ/Code-Challenges)  
