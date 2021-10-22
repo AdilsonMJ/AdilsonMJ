@@ -9,7 +9,7 @@
 
 ```javascript
 const Adilson = {
-   code: [Javascript, HTML, CSS, Python, Java(Mobile)],
+   code: [Javascript, HTML, CSS, Mobile Android, Java],
    challenge:
       "I am doing the #100DaysOfCode challenge focused on JavaScript",
 };
