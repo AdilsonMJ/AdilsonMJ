@@ -9,7 +9,7 @@
 
 ```javascript
 const Adilson = {
-   code: [Javascript, HTML, CSS, Mobile Android, Java, kotlin, Flutter],
+   code: [Javascript, HTML, CSS, Mobile Android, Java, Kotlin, Flutter],
    
 };
 ````
