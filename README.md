@@ -9,7 +9,13 @@
 
 ```javascript
 const Adilson = {
+   aboutMe: [I'm from Belo Horizonte - Brazil, I currently live in Cork-Ireland, Love DOGs and Horses (yeah I grow up in the farm), 
+            I already lived in Oklahoma - USA and Porto - Portugal,
+            I`m photographer and I`m in the career transition ]
    code: [Javascript, HTML, CSS, Mobile Android, Java, Kotlin, Flutter],
+   Graduation: [Computer Science at Descomplica College - Brazil: [Started: 2021]],
+               [Alura Courses: JAVA, KOTLIN, SPRING BOOT, JDBC, MYSQL, FIREBASE - Brazil: [Started: 2022]],
+               [Origamid: CSS [GRID, FLEXBOX, ANIMATION], Flexbox, JS - Brazil: [finished 2021]]
    
 };
 ````
