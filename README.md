@@ -2,14 +2,14 @@
    I'm Adilson Jäger <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50">
 </h2>
 <img align='right' src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="130">
-<p><em>Science Computer student focused on Android Kotlin <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Science Computer student focused on CSharp Dotnet <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-[![Twitter: AdilsonJager](https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAdilsonJager)](https://twitter.com/AdilsonJager)
 [![Linkedin: AdilsonJager](https://img.shields.io/badge/-adilsonJager-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilsonj%C3%A4ger)](https://www.linkedin.com/in/adilsonj%C3%A4ger)
 
 
  ## Concentrate on:
-   
+
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
 
